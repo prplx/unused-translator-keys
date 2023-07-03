@@ -1,0 +1,446 @@
+[
+	{
+		"Name": "dashboard.paidPlanOnboarding.unlimitedWorkspaces.spaceListPlus.tooltip.content",
+		"FilePath": "../client/application/web/lazy-modules/dashboard/translator/master/translation.en.json"
+	},
+	{
+		"Name": "dashboard.paidPlanOnboarding.unlimitedWorkspaces.spaceListPlus.tooltip.button",
+		"FilePath": "../client/application/web/lazy-modules/dashboard/translator/master/translation.en.json"
+	},
+	{
+		"Name": "dashboard.paidPlanOnboarding.unlimitedWorkspaces.spaceListPlus.tooltip.title",
+		"FilePath": "../client/application/web/lazy-modules/dashboard/translator/master/translation.en.json"
+	},
+	{
+		"Name": "shareAndInvite.paidPlanOnboarding.privateBoards.selectNoAccess.dropdown.content",
+		"FilePath": "../client/application/web/lazy-modules/share-and-invite/translator/master/translation.en.json"
+	},
+	{
+		"Name": "shareAndInvite.paidPlanOnboarding.privateBoards.selectNoAccess.dropdown.title",
+		"FilePath": "../client/application/web/lazy-modules/share-and-invite/translator/master/translation.en.json"
+	},
+	{
+		"Name": "templatePicker.paidPlanOnboarding.agileTemplatesTipBody",
+		"FilePath": "../client/application/web/lazy-modules/template-picker/translator/master/translation.en.json"
+	},
+	{
+		"Name": "templatePicker.paidPlanOnboarding.agileTemplatesTipTitle",
+		"FilePath": "../client/application/web/lazy-modules/template-picker/translator/master/translation.en.json"
+	},
+	{
+		"Name": "appLibrary.paidPlanOnboarding.discoverApps.tooltip.content",
+		"FilePath": "../client/packages/app-library/translator/master/translation.en.json"
+	},
+	{
+		"Name": "appLibrary.paidPlanOnboarding.discoverApps.tooltip.title",
+		"FilePath": "../client/packages/app-library/translator/master/translation.en.json"
+	},
+	{
+		"Name": "creationBar.paidPlanOnboarding.discoverApps.tooltip.content",
+		"FilePath": "../client/packages/board-creation-bar/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "creationBar.paidPlanOnboarding.discoverApps.tooltip.title",
+		"FilePath": "../client/packages/board-creation-bar/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.content",
+		"FilePath": "../client/packages/nav-bar/translator/master/translation.en.json"
+	},
+	{
+		"Name": "navBar.paidPlanOnboarding.boardHistory.minimizedSidebarIcon.tooltip.title",
+		"FilePath": "../client/packages/nav-bar/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.appBarMenuItem.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.moreApps.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.discoverApps.tooltip.toolbar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.hideTheContent.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.timer.tooltip.appBar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.connectWithJira.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport.tooltip.boardSettingsDropdown.export.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.moreApps.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.programBoards.tooltip.toolbar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.startExploringNewFeatures",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.voting.tooltip.appBar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard.tooltip.boardSettingsDropdown.board.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.estimationIntro.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.timeForReveal.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.startForAll.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.addIssues.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.appBarMenuItem.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard.tooltip.boardSettingsDropdown.board.createBoard.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport.tooltip.boardSettingsDropdown.exportImage.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.link.showMeHow",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.timeForReveal.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard.tooltip.boardSettingsDropdown.board.createBoard.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.moreApps.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.newSession.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.toolbar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.agileTemplates",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.issuePicker.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.toolbar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.moreApps.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.programBoards",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.workspaces.buttons.secondary",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.boardHistory",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.appBar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport.tooltip.boardSettingsDropdown.exportImage.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.smartDiagramming",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.timer",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.common.openSettings",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.appsMarketplace",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard.tooltip.boardSettingsDropdown.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.addIssues.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport.tooltip.boardSettingsDropdown.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.programBoards.tooltip.appsLibrary.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.programBoards.tooltip.toolbar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.voting",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.workspaces.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.createBoard.tooltip.boardSettingsDropdown.board.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport.tooltip.boardSettingsDropdown.export.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.issuePicker.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.appBar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.hideTheContent.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.workspaces.buttons.primary",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.appBar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.newSession.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.appLibrary.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.timer.tooltip.appBar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.voting.tooltip.appBar.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.workspaces.description",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.connectWithJira.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateBoards",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.programBoards.tooltip.appsLibrary.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.connectWithJira.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyMapper",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.dependencyTracker.tooltip.connectWithJira.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.discoverApps.tooltip.toolbar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.highresExport",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.appBar.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.privateMode.tooltip.startForAll.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.estimationApp.tooltip.estimationIntro.title",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "paidPlanOnboarding.checklist.item.jiraCards.tooltip.appLibrary.content",
+		"FilePath": "../client/packages/paid-plan-onboarding-base/src/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.noJiraIntegration.title",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.importButton.title",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.noJiraIntegration.content",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.findBoard.content",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.importButton.content",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.selectFields.title",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.findBoard.title",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "pipmatrix.package.components.paidPlanOnboarding.tooltip.selectFields.content",
+		"FilePath": "../client/packages/pipmatrix/translator/master/translation.en.json"
+	},
+	{
+		"Name": "shapeLibrary.paidPlanOnboarding.smartDiagramming.tooltip.title",
+		"FilePath": "../client/packages/shape-library/translator/master/translation.en.json"
+	},
+	{
+		"Name": "shapeLibrary.paidPlanOnboarding.smartDiagramming.tooltip.content",
+		"FilePath": "../client/packages/shape-library/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.agileTemplates.toolbarIcon.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.privateBoards.toolbarIcon.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.smartDiagramming.toolbarIcon.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.timer.setTimeAndMusic.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.boardHistory.bottomHistory.tab.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.boardHistory.topVersionTab.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.agileTemplates.toolbarIcon.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.smartDiagramming.toolbarIcon.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.timer.setTimeAndMusic.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.boardHistory.bottomHistory.tab.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.boardHistory.topVersionTab.tooltip.content",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "board.paidPlanOnboarding.privateBoards.toolbarIcon.tooltip.title",
+		"FilePath": "../client/packages/translator-board/translator/master/translation.en.json"
+	},
+	{
+		"Name": "voting.paidPlanOnboarding.howToVote.tooltip.content",
+		"FilePath": "../client/packages/voting/translator/master/translation.en.json"
+	},
+	{
+		"Name": "voting.paidPlanOnboarding.howToVote.tooltip.title",
+		"FilePath": "../client/packages/voting/translator/master/translation.en.json"
+	}
+]
